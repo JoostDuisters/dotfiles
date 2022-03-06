@@ -1,2 +1,2 @@
 # dotfiles
-Handy dotfiles &amp; Snippets
+Handy Dotfiles &amp; Snippets
